@@ -9,7 +9,10 @@ from sklearn.pipeline import Pipeline
 
 # --- CONFIGURATION ---
 DATASET_FILE = "dataset_train5.csv"
-MODEL_FILE = "smart_search_engine_model.pkl"
+MODEL_FILE_STORE = "smart_search_engine_model_store.pkl"
+MODEL_FILE_CATALOGUE = "smart_search_engine_model_catalogue.pkl"
+# Legacy default for single-model scripts
+MODEL_FILE = MODEL_FILE_STORE
 
 # --- 1. THE BRAIN: SYNONYM MAPPING (STRICTLY HARDWARE) ---
 # Removed: legend, storm, flexy, puce, net (User requirement: No internet offers)
@@ -73,7 +76,7 @@ class SmartSearchEngine:
             ('clf', SGDClassifier(loss='log_loss', penalty='l2', alpha=1e-4, random_state=42))
         ])
         
-    def train(self, csv_path):
+    def train(self, csv_path, source_tag="boutique"):
         print(f"[AI] Loading dataset from {csv_path}...")
         try:
             df = pd.read_csv(csv_path)
@@ -95,9 +98,18 @@ class SmartSearchEngine:
         print(f"[AI] Training model on {len(df)} examples...")
         self.pipeline.fit(X, y)
         
-        # Prepare the searchable database 
-        # We drop duplicates to have a clean list of unique products to search against later
-        self.product_db = df[['product_id', 'product_name', 'category', 'description', 'price']].drop_duplicates(subset=['product_id']).copy()
+        base_cols = ['product_id', 'product_name', 'category', 'description', 'price']
+        extra = [c for c in ('product_url', 'image_url') if c in df.columns]
+        self.product_db = df[base_cols + extra].drop_duplicates(subset=['product_id']).copy()
+        if 'product_url' not in self.product_db.columns:
+            self.product_db['product_url'] = ''
+        else:
+            self.product_db['product_url'] = self.product_db['product_url'].fillna('').astype(str)
+        if 'image_url' not in self.product_db.columns:
+            self.product_db['image_url'] = ''
+        else:
+            self.product_db['image_url'] = self.product_db['image_url'].fillna('').astype(str)
+        self.product_db['source'] = source_tag
         
         # Pre-compute the search text for the inference phase
         self.product_db['search_text'] = self.product_db['product_name'].fillna('') + " " + \
@@ -113,9 +125,13 @@ class SmartSearchEngine:
             print("[ERROR] Cannot save: Model is not trained yet.")
             return
             
+        src = ''
+        if self.product_db is not None and len(self.product_db) and 'source' in self.product_db.columns:
+            src = str(self.product_db['source'].iloc[0])
         model_package = {
             'pipeline': self.pipeline,
-            'database': self.product_db
+            'database': self.product_db,
+            'source': src,
         }
         
         try:
@@ -148,8 +164,8 @@ if __name__ == "__main__":
     engine = SmartSearchEngine()
     
     # Train with your specific file
-    engine.train(DATASET_FILE)
-    engine.save_model(MODEL_FILE)
+    engine.train(DATASET_FILE, source_tag="boutique")
+    engine.save_model(MODEL_FILE_STORE)
     
     # --- DEMO ---
     test_queries = [

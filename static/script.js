@@ -61,20 +61,28 @@ function renderResults(results, query) {
     results.forEach(product => {
         const card = document.createElement('div');
         card.className = 'card';
-
-        // Format image: if it fails, placeholder is handled in app.py, but we can add onerror here too
-        // Format price: Add space for thousands if needed (simple implementation)
+        const src = product.source || 'boutique';
+        const badgeClass = src === 'catalogue' ? 'catalogue' : 'boutique';
+        const label = product.source_label || (src === 'catalogue' ? 'Catalogue' : 'Boutique');
+        const rawUrl = (product.url || '').trim();
+        const safeUrl = rawUrl.replace(/"/g, '&quot;');
+        const isBing = /^https:\/\/www\.bing\.com\/search/i.test(rawUrl);
+        const linkLabel = isBing ? 'Ouvrir la recherche GSMArena' : 'Fiche GSMArena';
+        const linkHtml = rawUrl
+            ? `<a href="${safeUrl}" class="btn-details btn-external" target="_blank" rel="noopener noreferrer">${linkLabel}</a>`
+            : `<span class="btn-details disabled">Lien non disponible</span>`;
 
         card.innerHTML = `
             <img src="${product.image}" alt="${product.name}" class="card-img" onerror="this.src='https://via.placeholder.com/200x200?text=Smart+Search'">
             <div class="card-body">
+                <span class="source-badge ${badgeClass}">${label}</span>
                 <span class="card-cat">${product.category}</span>
                 <h3 class="card-title">${product.name}</h3>
                 <div class="ai-match">
                     <i class="fas fa-robot"></i> Match ${product.score}%
                 </div>
                 <span class="card-price">${product.price}</span>
-                <a href="#" class="btn-details">Voir détails</a>
+                ${linkHtml}
             </div>
         `;
         resultsGrid.appendChild(card);

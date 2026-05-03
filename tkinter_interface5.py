@@ -128,7 +128,7 @@ class SmartSearchEngineApp(tk.Tk):
         self.engine = SmartSearchEngine()
         self.model_loaded = False
         
-        model_filename = "smart_search_engine_model.pkl"
+        model_filename = "smart_search_engine_model_store.pkl"
         
         if os.path.exists(model_filename):
             if self.engine.load_model(model_filename):
