@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Search Engine</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;700;900&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="container nav-content">
+            <div class="logo">
+                <span>Smart</span> Search Engine
+            </div>
+            <div class="nav-links">
+                <a href="#" class="active">Smartphones</a>
+                <a href="#">Modems</a>
+                <a href="#">Accessoires</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero / Search Section -->
+    <header class="hero">
+        <div class="container">
+            <h1>Trouvez le bon produit, instantanément</h1>
+            <p>Moteur de recherche intelligent assisté par l’IA</p>
+            
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Ex: Tablette D-Tech, Wifi, ZTE...">
+                <button onclick="performSearch()" id="searchBtn">
+                    <i class="fas fa-search"></i>
+                </button>
+            </div>
+
+            <!-- Quick Access Chips -->
+            <div class="suggestions">
+                <span>Rapide:</span>
+                <button class="chip" onclick="fillSearch('Modem Wifi')">Modem Wifi</button>
+                <button class="chip" onclick="fillSearch('Routeur D-Link')">Routeur D-Link</button>
+                <button class="chip" onclick="fillSearch('Tablette')">Tablette</button>
+                <button class="chip" onclick="fillSearch('Kitman Hoco')">Kitman Hoco</button>
+                <button class="chip" onclick="fillSearch('ZTE Blade')">ZTE Blade</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Results Section -->
+    <main class="container results-section">
+        <div id="loadingSpinner" class="loader hidden"></div>
+        
+        <div class="results-header hidden" id="resultsHeader">
+            <h2 id="resultsTitle">Résultats</h2>
+            <span class="badge" id="resultsCount">0 produits</span>
+        </div>
+
+        <div id="resultsGrid" class="product-grid">
+            <!-- Product Cards will be injected here via JS -->
+             <div class="empty-state">
+                 <i class="fas fa-shopping-bag"></i>
+                 <p>Commencez une recherche pour voir les produits.</p>
+             </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Smart Search Engine</p>
+        </div>
+    </footer>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

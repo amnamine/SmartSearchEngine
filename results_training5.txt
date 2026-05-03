@@ -1,0 +1,43 @@
+[AI] Loading dataset from dataset_train5.csv...
+[AI] Training model on 4691 examples...
+[AI] Training Complete.
+[SUCCESS] Model saved to 'djezzy_ai_brain5.pkl'
+
+==================================================
+   DJIBLY INTELLIGENT SEARCH DEMO   
+==================================================
+
+>> User Search: 'tablette'
+   [MATCH] (0.70) -> D Tech Tablette D Tech 8 [15 500 DA]
+   [MATCH] (0.70) -> D Tech Tablette D Tech 7 [13 200 DA]
+   [MATCH] (0.68) -> D Tech Tablette D Tech 10 [18 100 DA]
+   [MATCH] (0.55) -> D Tech Power Bank DP10H [2 100 DA]
+   [MATCH] (0.54) -> ZTE NUBIA MUSIC POP ART [25 500 DA]
+
+>> User Search: 'wifi d-link'
+   [MATCH] (0.92) -> D Link DWR M961 [9 900 DA]
+   [MATCH] (0.92) -> D Link DWR G403 [10 500 DA]
+   [MATCH] (0.89) -> D Link DWR M920 B1 [8 900 DA]
+   [MATCH] (0.85) -> TECNO POVA 6 [43 300 DA]
+   [MATCH] (0.85) -> D Link BOX Home M915V [9 100 DA]
+
+>> User Search: 'telephone zte'
+   [MATCH] (0.77) -> ZTE Blade A55 [20 900 DA]
+   [MATCH] (0.72) -> ZTE NUBIA MUSIC POP ART [25 500 DA]
+   [MATCH] (0.72) -> ZTE BLADE V60 DESIGN [32 900 DA]
+   [MATCH] (0.72) -> ZTE BLADE A35 [17 900 DA]
+   [MATCH] (0.71) -> ZTE BLADE A75 [31 900 DA]
+
+>> User Search: 'kitman hoco'
+   [MATCH] (0.45) -> HOCO CABLE SILICONE 3A X82 [1 500 DA]
+   [MATCH] (0.43) -> HOCO Z40 Superior dual port car [1 200 DA]
+   [MATCH] (0.43) -> HOCO CABLE 3A X86 TYPE C [1 200 DA]
+   [MATCH] (0.42) -> HOCO Silicone 3A X86 Type C [1 200 DA]
+   [MATCH] (0.42) -> HOCO Cable Silicone 3A X82IP [1 500 DA]
+
+>> User Search: 'modem 4g'
+   [MATCH] (0.98) -> D Link DWR M961 [9 900 DA]
+   [MATCH] (0.97) -> D Link DWR G403 [10 500 DA]
+   [MATCH] (0.96) -> TCL HH40L1 [8 690 DA]
+   [MATCH] (0.96) -> D Link BOX Home M915V [9 100 DA]
+   [MATCH] (0.96) -> D Link DWR M920 B1 [8 900 DA]

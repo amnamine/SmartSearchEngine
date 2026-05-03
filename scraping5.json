@@ -1,0 +1,932 @@
+[
+  {
+    "title": "ZTE",
+    "price": "49&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/zte-nubia-neo-2-5-5g-2-150x200.png",
+    "description": "ZTE NUBIA Neo2 5G"
+  },
+  {
+    "title": "TECNO",
+    "price": "43&nbsp300 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/spark-g0-1-150x200.png",
+    "description": "POVA 6"
+  },
+  {
+    "title": "ZTE",
+    "price": "32&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/zte-blade-v60-150x200.png",
+    "description": "ZTE BLADE V60 DESIGN"
+  },
+  {
+    "title": "ZTE",
+    "price": "31&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/zte-blade-a75-5g-2-150x200.png",
+    "description": "ZTE BLADE A75"
+  },
+  {
+    "title": "ZTE",
+    "price": "25&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/zte-nubia-music-pop-art-150x200.png",
+    "description": "NUBIA MUSIC POP ART"
+  },
+  {
+    "title": "TECNO",
+    "price": "18&nbsp000 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/pova-6--150x200.png",
+    "description": "SPARK Go 1"
+  },
+  {
+    "title": "ZTE",
+    "price": "17&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/zte-blade-a35-150x200.png",
+    "description": "ZTE BLADE A35"
+  },
+  {
+    "title": "D-Link",
+    "price": "10&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2024/08/sans-titre-1-150x200.png",
+    "description": "D-Link DWR-G403"
+  },
+  {
+    "title": "D-Link",
+    "price": "9&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2024/08/sans-titre-2-150x200.png",
+    "description": "D-Link DWR-M961"
+  },
+  {
+    "title": "D-Link",
+    "price": "9&nbsp100 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/06/d-link-m915v-150x200.png",
+    "description": "BOX Home M915V"
+  },
+  {
+    "title": "D-Link",
+    "price": "8&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2024/08/dwr-m920b1-150x200.png",
+    "description": "D-Link DWR-M920/B1"
+  },
+  {
+    "title": "TCL",
+    "price": "8&nbsp690 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2024/09/tcl-150x200.png",
+    "description": "TCL HH40L1"
+  },
+  {
+    "title": "ZTE",
+    "price": "49&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/zte-nubia-neo-2-5-5g-2-150x200.png",
+    "description": "ZTE NUBIA Neo2 5G"
+  },
+  {
+    "title": "TECNO",
+    "price": "43&nbsp300 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/spark-g0-1-150x200.png",
+    "description": "POVA 6"
+  },
+  {
+    "title": "ZTE",
+    "price": "32&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/zte-blade-v60-150x200.png",
+    "description": "ZTE BLADE V60 DESIGN"
+  },
+  {
+    "title": "ZTE",
+    "price": "31&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/zte-blade-a75-5g-2-150x200.png",
+    "description": "ZTE BLADE A75"
+  },
+  {
+    "title": "ZTE",
+    "price": "25&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/zte-nubia-music-pop-art-150x200.png",
+    "description": "NUBIA MUSIC POP ART"
+  },
+  {
+    "title": "TECNO",
+    "price": "18&nbsp000 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/pova-6--150x200.png",
+    "description": "SPARK Go 1"
+  },
+  {
+    "title": "ZTE",
+    "price": "17&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/zte-blade-a35-150x200.png",
+    "description": "ZTE BLADE A35"
+  },
+  {
+    "title": "D-Link",
+    "price": "10&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2024/08/sans-titre-1-150x200.png",
+    "description": "D-Link DWR-G403"
+  },
+  {
+    "title": "D-Link",
+    "price": "9&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2024/08/sans-titre-2-150x200.png",
+    "description": "D-Link DWR-M961"
+  },
+  {
+    "title": "D-Link",
+    "price": "9&nbsp100 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/06/d-link-m915v-150x200.png",
+    "description": "BOX Home M915V"
+  },
+  {
+    "title": "D-Link",
+    "price": "8&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2024/08/dwr-m920b1-150x200.png",
+    "description": "D-Link DWR-M920/B1"
+  },
+  {
+    "title": "TCL",
+    "price": "8&nbsp690 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2024/09/tcl-150x200.png",
+    "description": "TCL HH40L1"
+  },
+  {
+    "title": "Revaleo",
+    "price": "650 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az015-350x400-1-150x200.png",
+    "description": "TK-74"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "650 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae032-350x400-1-150x200.png",
+    "description": "CULD002 TYPE C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "600 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae031-350x400-1-150x200.png",
+    "description": "CULD002 MICRO USB"
+  },
+  {
+    "title": "Revaleo",
+    "price": "600 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az008-350x400-1-150x200.png",
+    "description": "RCB-005 IOS"
+  },
+  {
+    "title": "Revaleo",
+    "price": "600 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az014-350x400-1-150x200.png",
+    "description": "TK-73"
+  },
+  {
+    "title": "Revaleo",
+    "price": "600 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az011-350x400-1-150x200.png",
+    "description": "TK 77 TIPE C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "600 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae053-350x400-1-150x200.png",
+    "description": "CULD 004 S MICRO USB"
+  },
+  {
+    "title": "Revaleo",
+    "price": "600 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az010-350x400-2-150x200.png",
+    "description": "CABLE TK 77 IOS"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "550 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae038-350x400--150x200.png",
+    "description": "CULD012 TYPE C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "550 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae045-350x400-1-150x200.png",
+    "description": "CULD010 TYPE C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "550 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae026-350x400-1-150x200.png",
+    "description": "CCULD009 TYPE C"
+  },
+  {
+    "title": "Revaleo",
+    "price": "500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az007-350x400-1-150x200.png",
+    "description": "RCB-005 TYPE C"
+  },
+  {
+    "title": "Revaleo",
+    "price": "500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az005-350x400-1-150x200.png",
+    "description": "LC-927 TYPE C"
+  },
+  {
+    "title": "Revaleo",
+    "price": "500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az010-350x400-1-150x200.png",
+    "description": "RCB-003 MICRO USB"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae054-350x400-1-150x200.png",
+    "description": "CULD 014 C TYPE C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae025-350x400-1-150x200.png",
+    "description": "CCULD009 MICRO USB"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae044-350x400-2-150x200.png",
+    "description": "CULD010 MICRO USB"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae038-350x400--150x200.png",
+    "description": "CULD012 MICRO USB"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae026-350x400-1-150x200.png",
+    "description": "CULD007 TYPE C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2024/08/car-mountchld001-dv-1-150x200.png",
+    "description": "AUX 3,5 CAULD001 (DV)"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "450 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae033-350x4001-1-150x200.png",
+    "description": "CULD007 MICRO USB"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "450 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae055-350x400-1-150x200.png",
+    "description": "CULD 014 S MICRO USB"
+  },
+  {
+    "title": "HOCO",
+    "price": "400 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah010-150x200.png",
+    "description": "Data cable BX54 TYPE-C"
+  },
+  {
+    "title": "HOCO",
+    "price": "400 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/06/hoco-x88-350-x-400-150x200.png",
+    "description": "X88 Charging Cable"
+  },
+  {
+    "title": "Revaleo",
+    "price": "400 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az003-350x400-1-150x200.png",
+    "description": "RCB-86 IOS"
+  },
+  {
+    "title": "Revaleo",
+    "price": "400 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az013-350x400-1-150x200.png",
+    "description": "AUX TK 79"
+  },
+  {
+    "title": "Revaleo",
+    "price": "400 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az006-350x400-1-150x200.png",
+    "description": "RCB-005 MICRO USB"
+  },
+  {
+    "title": "Revaleo",
+    "price": "400 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az004-350x400-2-150x200.png",
+    "description": "LC-927 MICRO USB"
+  },
+  {
+    "title": "HOCO",
+    "price": "399 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/07/ah010-150x200.png",
+    "description": "CABLE BX54 TYPE-C"
+  },
+  {
+    "title": "Revaleo",
+    "price": "350 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az002-350x400-1-150x200.png",
+    "description": "RCB-86 TYPE C"
+  },
+  {
+    "title": "Revaleo",
+    "price": "300 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az001-350x400-1-150x200.png",
+    "description": "RCB-86 MICRO USB"
+  },
+  {
+    "title": "ZTE",
+    "price": "20&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2025/10/zte-blade-a55-150x200.png",
+    "description": "Blade A55"
+  },
+  {
+    "title": "D-Tech",
+    "price": "18&nbsp100 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2021/03/dtech_1-150x200.png",
+    "description": "Tablette D-Tech 10’’"
+  },
+  {
+    "title": "D-Tech",
+    "price": "15&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2021/03/dtech_2-150x200.png",
+    "description": "Tablette D-Tech 8’’"
+  },
+  {
+    "title": "D-Tech",
+    "price": "13&nbsp200 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2021/09/dt07-150x200.png",
+    "description": "Tablette D-Tech 7’’"
+  },
+  {
+    "title": "D-Tech",
+    "price": "7&nbsp990 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/11/05-150x200.png",
+    "description": "Power Bank DPC65"
+  },
+  {
+    "title": "Revaleo",
+    "price": "6&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az031-350x400-1-150x200.png",
+    "description": "EARBUDS REVALEO V6"
+  },
+  {
+    "title": "HOCO",
+    "price": "5&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/12/nouveau-projet-2-150x200.jpg",
+    "description": "ECOUTEUR EW39"
+  },
+  {
+    "title": "HOCO",
+    "price": "4&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah013-150x200.png",
+    "description": "IN CAR FM E62"
+  },
+  {
+    "title": "HOCO",
+    "price": "4&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/06/hoco-es61-350x400-1-150x200.png",
+    "description": "ES61 Mannersport"
+  },
+  {
+    "title": "HOCO",
+    "price": "4&nbsp800 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah024-150x200.png",
+    "description": "PD30W+QC3.0 IN CAR  E70"
+  },
+  {
+    "title": "HOCO",
+    "price": "4&nbsp800 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/12/nouveau-projet-1-150x200.jpg",
+    "description": "ECOUTEUR EQ4"
+  },
+  {
+    "title": "D-Tech",
+    "price": "4&nbsp590 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/11/12-150x200.png",
+    "description": "Power Bank DP15"
+  },
+  {
+    "title": "D-Link",
+    "price": "4&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2021/09/dwr-910m_vue4-150x200.png",
+    "description": "Clé 4G DWR-910M Wifi"
+  },
+  {
+    "title": "HOCO",
+    "price": "4&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah030-150x200.png",
+    "description": "TRUE  SPEAKER HC4"
+  },
+  {
+    "title": "HOCO",
+    "price": "4&nbsp300 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah033-150x200.png",
+    "description": "PWB 20 000 mah J52A"
+  },
+  {
+    "title": "HOCO",
+    "price": "3&nbsp800 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah022-150x200.png",
+    "description": "Chargeur N13 Type-C TO IP"
+  },
+  {
+    "title": "HOCO",
+    "price": "3&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ah034-350x400-1-150x200.png",
+    "description": "SPORTS BT SPEAKER HC13"
+  },
+  {
+    "title": "HOCO",
+    "price": "3&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah032-150x200.png",
+    "description": "TRUE  SPEAKER HC11"
+  },
+  {
+    "title": "HOCO",
+    "price": "3&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/06/hoco-es51-350-x-400-150x200.png",
+    "description": "ES51 Era sport earphone"
+  },
+  {
+    "title": "HOCO",
+    "price": "3&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/12/nouveau-projet-3-150x200.jpg",
+    "description": "ECOUTEUR EQ3"
+  },
+  {
+    "title": "HOCO",
+    "price": "3&nbsp400 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah001-1-150x200.png",
+    "description": "Écouteurs  EW27"
+  },
+  {
+    "title": "D-Tech",
+    "price": "3&nbsp290 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/11/p10h-2-150x200.png",
+    "description": "Power Bank DP20H"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "3&nbsp000 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/07/ae061-350x400-1-150x200.png",
+    "description": "CHARGEUR PSLD002"
+  },
+  {
+    "title": "HOCO",
+    "price": "2&nbsp950 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/12/nouveau-projet-150x200.png",
+    "description": "ECOUTEUR EQ1"
+  },
+  {
+    "title": "HOCO",
+    "price": "2&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah026-150x200.png",
+    "description": "Écouteur  EW26"
+  },
+  {
+    "title": "HOCO",
+    "price": "2&nbsp800 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/12/nouveau-projet-1-150x200.png",
+    "description": "ECOUTEUR EQ2"
+  },
+  {
+    "title": "HOCO",
+    "price": "2&nbsp700 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah016-150x200.png",
+    "description": "C101A TYPE-C TO TYPE-C"
+  },
+  {
+    "title": "HOCO",
+    "price": "2&nbsp700 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah020-150x200.png",
+    "description": "C101A TYPE-C TO IP"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "2&nbsp690 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/07/ae060-350x400-2-150x200.png",
+    "description": "CHARGEUR PSLD001"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "2&nbsp690 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/07/ae060-350x400-1-150x200.png",
+    "description": "CHARGEUR PSLD001"
+  },
+  {
+    "title": "HOCO",
+    "price": "2&nbsp550 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah031-150x200.png",
+    "description": "Écouteurs  EW25"
+  },
+  {
+    "title": "HOCO",
+    "price": "2&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah029-150x200.png",
+    "description": "CAR HOLDER CA82"
+  },
+  {
+    "title": "HOCO",
+    "price": "2&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah035-150x200.png",
+    "description": "CAR FM Transmitter E59"
+  },
+  {
+    "title": "HOCO",
+    "price": "2&nbsp200 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah019-150x200.png",
+    "description": "Écouteurs M1 Max IP"
+  },
+  {
+    "title": "HOCO",
+    "price": "2&nbsp200 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah002-150x200.png",
+    "description": "C97A TYPE-C TO TYPE-C"
+  },
+  {
+    "title": "D-Tech",
+    "price": "2&nbsp200 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/11/07-150x200.png",
+    "description": "Power Bank DP1 Mini"
+  },
+  {
+    "title": "HOCO",
+    "price": "2&nbsp100 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah003-150x200.png",
+    "description": "C80A PLUS TYPE-C TO IP"
+  },
+  {
+    "title": "D-Tech",
+    "price": "2&nbsp100 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/11/p10h-2-150x200.png",
+    "description": "Power Bank DP10H"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae013-350x400-1-150x200.png",
+    "description": "FCLD012 TYPE C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae056-350x400-1-150x200.png",
+    "description": "FCLD 002 C TYPE C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp850 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae012-350x400-1-150x200.png",
+    "description": "FCLD012 MICRO USB"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp800 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah027-150x200.png",
+    "description": "CUP CAR HOLDER CA95"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp800 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae058-350x400-1-150x200.png",
+    "description": "FCLD 009 C TYPE C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp800 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae057-350x400-1-150x200.png",
+    "description": "FCLD 002 S MICRO USB"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp800 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae059-350x400-1-150x200.png",
+    "description": "FCLD 009 S4 MICRO USB"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp600 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah025-150x200.png",
+    "description": "IN-CAR HOLDER CA76"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah012-150x200.png",
+    "description": "Écouteurs M1 PRO"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah014-150x200.png",
+    "description": "Magnetic U90 TYPE-C"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah018-150x200.png",
+    "description": "STEREO Earphones  M90"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah008-150x200.png",
+    "description": "Silicone 2,4A X82 IP"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah015-150x200.png",
+    "description": "Cable Silicone 3A X82IP"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/07/ah012-150x200.png",
+    "description": "EARPHONES MIC M1 PRO"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp500 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/07/ah015-150x200.png",
+    "description": "CABLE SILICONE 3A X82"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp450 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae009-350x400-1-150x200.png",
+    "description": "FCLD007"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp400 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah028-150x200.png",
+    "description": "METAL HOLDER CA56"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp350 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae003-350x4001-1-150x200.png",
+    "description": "FCLD010 TYPE C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp350 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae050-350x400-1-150x200.png",
+    "description": "CCLD 001C TYPE C"
+  },
+  {
+    "title": "Revaleo",
+    "price": "1&nbsp300 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az020-350x400-1-150x200.png",
+    "description": "LCH-082 TYPE-C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp300 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae051-350x400-2-150x200.png",
+    "description": "CCLD 001C MICRO USB"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp300 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae011-350x400--150x200.png",
+    "description": "FCLD008 TYPE C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp300 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae002-350x400-1-150x200.png",
+    "description": "FCLD010 MICRO USB"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp250 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/07/ae010-350x400-1-150x200.png",
+    "description": "CHARGER FCLD008"
+  },
+  {
+    "title": "Revaleo",
+    "price": "1&nbsp250 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az022-350x400-1-150x200.png",
+    "description": "LCH-086 QC3 3A TYPE-C"
+  },
+  {
+    "title": "Revaleo",
+    "price": "1&nbsp250 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az030-350x400-1-150x200.png",
+    "description": "RTC-003 3USB TYPE-C"
+  },
+  {
+    "title": "Revaleo",
+    "price": "1&nbsp250 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az019-350x400-1-150x200.png",
+    "description": "LCH-082 MICRO USB"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp200 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah006-150x200.png",
+    "description": "Silicone 3A X86 Type-C"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp200 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah007-150x200.png",
+    "description": "Silicone 2,4A  X86 IP"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp200 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/06/hoco-x76-3in1-350-x-400-150x200.png",
+    "description": "X76 3in1 Charging Cable"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp200 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/06/hoco-z40-superio-dual-350-x-400-150x200.png",
+    "description": "Z40 Superior dual port car"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp200 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/06/hoco-z40-350-x-400-150x200.png",
+    "description": "Z40 Dual Port Car Charge"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp200 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/07/ah006-150x200.png",
+    "description": "CABLE 3A X86 TYPE-C"
+  },
+  {
+    "title": "Revaleo",
+    "price": "1&nbsp200 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az021-350x400-1-150x200.png",
+    "description": "LCH-086 MICRO USB"
+  },
+  {
+    "title": "Revaleo",
+    "price": "1&nbsp200 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az029-350x400-1-150x200.png",
+    "description": "RTC-003 3USB MICRO USB"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp150 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae019-350x400-1-150x200.png",
+    "description": "CCLD003 TYPE C"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp100 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah036-150x200.png",
+    "description": "QC3,0 C72Q MICRO"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp100 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah017-150x200.png",
+    "description": "QC3,0 C72Q TYPE-C"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp100 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/07/ah036-150x200.png",
+    "description": "Charger QC3,0 C72Q"
+  },
+  {
+    "title": "Revaleo",
+    "price": "1&nbsp100 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az023-350x400-1-150x200.png",
+    "description": "LCH-219 MICRO USB"
+  },
+  {
+    "title": "Revaleo",
+    "price": "1&nbsp100 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az024-350x400-1-150x200.png",
+    "description": "LCH-219 3USB TYPE-C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp100 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae018-350x400--150x200.png",
+    "description": "CCLD003 MICRO USB"
+  },
+  {
+    "title": "HOCO",
+    "price": "1&nbsp000 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah005-150x200.png",
+    "description": "X85 Type-C TO Type-C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "1&nbsp000 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae015-350x400-1-150x200.png",
+    "description": "FCLD013 TYPE C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "950 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/07/ae008-350x400-1-150x200.png",
+    "description": "CHARGER FCLD004"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "950 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae024-350x400-1-150x200.png",
+    "description": "CABLE 3IN1 CULD015"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "950 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae014-350x400--150x200.png",
+    "description": "FCLD013 MICRO USB"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "950 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae048-350x400-1-150x200.png",
+    "description": "MOUNTCHLD002"
+  },
+  {
+    "title": "HOCO",
+    "price": "900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah023-150x200.png",
+    "description": "Chargeur C88A TYPE-C"
+  },
+  {
+    "title": "HOCO",
+    "price": "900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah021-150x200.png",
+    "description": "Dual Port C88A MICRO"
+  },
+  {
+    "title": "Revaleo",
+    "price": "900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az026-350x400-1-150x200.png",
+    "description": "RTC-004 TYPE-C"
+  },
+  {
+    "title": "Revaleo",
+    "price": "900 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az018-350x400-1-150x200.png",
+    "description": "RCC-004 TYPE C"
+  },
+  {
+    "title": "HOCO",
+    "price": "850 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah004-150x200.png",
+    "description": "DUAL-PORT C103A TYPE-C"
+  },
+  {
+    "title": "HOCO",
+    "price": "850 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/03/ah011-150x200.png",
+    "description": "Single Port C81A TYPE-C"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "850 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2024/08/el-djazira-car-mountchld001-150x200.jpg",
+    "description": "CAR MOUNTCHLD001 (DV)"
+  },
+  {
+    "title": "Revaleo",
+    "price": "800 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az017-350x400-1-150x200.png",
+    "description": "RCC-004 MICRO USB"
+  },
+  {
+    "title": "Revaleo",
+    "price": "800 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az025-350x400-1-150x200.png",
+    "description": "RTC-004 MICRO USB"
+  },
+  {
+    "title": "Revaleo",
+    "price": "800 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az027-350x400-1-150x200.png",
+    "description": "TK80 QC3 MICRO USB"
+  },
+  {
+    "title": "Revaleo",
+    "price": "800 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az009-350x400-1-150x200.png",
+    "description": "RCB-007 5A VOOC TYPE C"
+  },
+  {
+    "title": "Revaleo",
+    "price": "800 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az028-350x400-1-150x200.png",
+    "description": "TK80 QC3 TYPE-C"
+  },
+  {
+    "title": "Revaleo",
+    "price": "700 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/az016-350x400-1-150x200.png",
+    "description": "TK-75"
+  },
+  {
+    "title": "EL DJAZIRA",
+    "price": "700 DA",
+    "image": "https://www.djezzy.dz/wp-content/uploads/2023/08/ae052-350x400-1-150x200.png",
+    "description": "CULD 004 C TYPE C"
+  }
+]
